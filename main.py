@@ -1,6 +1,6 @@
 import cv2
-from open1 import gary  # open1.py 파일의 gray() 함수를 가져옴.
-from open2 import hsv, binary  # open2.py 파일의 hsv(), binary() 함수를 가져옴.
+from open2 import gary  # open1.py 파일의 gray() 함수를 가져옴.
+from open1 import hsv, binary  # open2.py 파일의 hsv(), binary() 함수를 가져옴.
 
 
 # 영상 소스 열기
